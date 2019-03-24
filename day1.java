@@ -9,5 +9,6 @@ public class day1 {
 	@Test
 	public void test() {
 		fail("Not yet implemented");
+
 	}
 }
